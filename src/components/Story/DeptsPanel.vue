@@ -4,18 +4,20 @@
     <Scrollama :offset="0.55" @step-enter="stepEnterHandler">
       <!-- Add graphic for each step -->
       <div class="graphic" slot="graphic">
-        <template v-for="(config, i) in panelConfig">
-          <div :key="i" v-show="checkCurrentStep(config, i)">
-            <div class="depts-chart-title">{{ titles[i] }}</div>
-            <ChartGroup
-              :ref="`chartGroup-${i}`"
-              :rawData="rawData"
-              :ncolumns="config.ncolumns"
-              :names="config.names"
-              :height="getHeight(config.ncolumns, config.names.length)"
-            />
-          </div>
-        </template>
+        <div
+          v-for="(config, i) in panelConfig"
+          :key="i"
+          v-show="checkCurrentStep(config, i)"
+        >
+          <div class="depts-chart-title">{{ titles[i] }}</div>
+          <ChartGroup
+            :ref="`chartGroup-${i}`"
+            :rawData="rawData"
+            :ncolumns="config.ncolumns"
+            :names="config.names"
+            :height="getHeight(config.ncolumns, config.names.length)"
+          />
+        </div>
       </div>
 
       <!-- Group 1 -->
@@ -305,7 +307,7 @@
     </Scrollama>
     <div
       class="explore font-italic font-weight-bold text-center pb-5"
-      style="font-size: 1.4rem"
+      style="font-size: 1.4rem;"
     >
       Explore the FY21 budget changes for all departments below.
     </div>
@@ -322,7 +324,7 @@ import ChartGroup from "@/components/Story/ChartGroup.vue";
 export default {
   components: {
     Scrollama,
-    ChartGroup
+    ChartGroup,
   },
   props: ["rawData"],
   data() {
@@ -335,7 +337,7 @@ export default {
         "Lower Benefits Costs",
         "Education Spending",
         "Changes to the Police Budget",
-        "Other Notable Increases"
+        "Other Notable Increases",
       ],
       panelConfig: [
         {
@@ -345,60 +347,60 @@ export default {
             "Homeless Services",
             "Parks & Rec",
             "Free Library",
-            "Planning & Development"
+            "Planning & Development",
           ],
           ncolumns: 3,
-          steps: [1, 2, 3, 4, 5, 6]
+          steps: [1, 2, 3, 4, 5, 6],
         },
         {
           names: [
             "Arts, Culture, and the Creative Economy",
-            "City Representative"
+            "City Representative",
           ],
           ncolumns: 2,
-          steps: [7]
+          steps: [7],
         },
         {
           names: [
             "Recession Reserve",
             "Labor Reserve",
-            "Budget Stabilization Reserve"
+            "Budget Stabilization Reserve",
           ],
           ncolumns: 3,
-          steps: [8, 9, 10]
+          steps: [8, 9, 10],
         },
         {
           names: ["Employee Benefits"],
           ncolumns: 1,
-          steps: [11, 12, 13, 14]
+          steps: [11, 12, 13, 14],
         },
         {
           names: [
             "Community College Subsidy",
             "School District Contribution",
             "Children and Families",
-            "Human Services"
+            "Human Services",
           ],
           ncolumns: 2,
-          steps: [15, 16, 17]
+          steps: [15, 16, 17],
         },
         {
           names: ["Managing Director", "Police"],
           ncolumns: 2,
-          steps: [18, 19]
+          steps: [18, 19],
         },
         {
           names: ["Fire", "Finance", "City Council"],
           ncolumns: 3,
-          steps: [20, 21, 22]
-        }
-      ]
+          steps: [20, 21, 22],
+        },
+      ],
     };
   },
   computed: {
     smallScreen() {
       return window.screen.width < 768;
-    }
+    },
   },
   methods: {
     stepEnterHandler({ element }) {
@@ -406,26 +408,6 @@ export default {
       let oldStepNo = +this.currStep;
       this.currStep = +element.dataset.stepNo;
       if (oldStepNo == this.currStep) return;
-
-      // Highlight the chart
-      let indices = element.dataset.highlightIndex;
-      if (indices) {
-        indices = JSON.parse(indices);
-
-        let chart_number, index;
-        for (let i = 0; i < this.panelConfig.length; i++) {
-          index = this.panelConfig[i].steps.indexOf(this.currStep);
-
-          if (index !== -1) {
-            chart_number = i;
-            break;
-          }
-        }
-
-        if (chart_number != undefined) {
-          this.$refs[`chartGroup-${chart_number}`][0].highlightBox(indices);
-        }
-      }
 
       // Set the opacity
       if (!this.smallScreen) {
@@ -435,6 +417,31 @@ export default {
           else $(x).css("opacity", "0.2");
         });
       }
+
+      // Highlight the chart
+      this.$nextTick(() => {
+        let indices = element.dataset.highlightIndex;
+        if (indices) {
+          indices = JSON.parse(indices);
+
+          let chart_number, index;
+          for (let i = 0; i < this.panelConfig.length; i++) {
+            index = this.panelConfig[i].steps.indexOf(this.currStep);
+
+            if (index !== -1) {
+              chart_number = i;
+              break;
+            }
+          }
+
+          if (chart_number != undefined) {
+            this.$refs[`chartGroup-${chart_number}`][0].highlightBox(indices);
+          }
+        }
+
+        // manually trigger resize due to apexcharts bug
+        window.dispatchEvent(new Event("resize"));
+      });
     },
     checkCurrentStep(config, i) {
       if ((this.currStep == null) & (i == 0)) return true;
@@ -451,8 +458,8 @@ export default {
         else return this.smallScreen ? 100 : 125;
       }
       return 125;
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -481,7 +488,7 @@ export default {
 @media only screen and (max-width: 767px) {
   .depts-panel .step {
     margin-left: 0rem;
-    background-color: rgb(256, 256, 256, 0.8);
+    background-color: rgb(256, 256, 256, 0.9);
     margin-bottom: 75vh;
     opacity: 1;
   }
@@ -491,6 +498,9 @@ export default {
   .depts-chart-title {
     font-size: 1.4rem;
     padding-bottom: 0.5rem;
+  }
+  .depts-panel .graphic {
+    margin-top: 2rem;
   }
 }
 

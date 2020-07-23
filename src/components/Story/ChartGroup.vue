@@ -47,7 +47,7 @@ export default {
           d3.interpolateRgbBasis(["#9fc6a7", "#7db188", "#5b9b69", "#398649"])
         )
         .domain([0, 50e6])
-        .clamp(true)
+        .clamp(true),
     };
   },
   methods: {
@@ -67,7 +67,7 @@ export default {
       if (diff == 0) return "#666666";
       else if (diff < 0) return d3.color(this.reds(diff)).formatHex();
       else return d3.color(this.greens(diff)).formatHex();
-    }
+    },
   },
   computed: {
     gridStyle() {
@@ -77,13 +77,13 @@ export default {
 
       return {
         display: display,
-        gridTemplateColumns: `repeat(${this.ncolumns}, minmax(0, ${width}%))`
+        gridTemplateColumns: `repeat(${this.ncolumns}, minmax(0, ${width}%))`,
       };
     },
     selectedData() {
-      return this.rawData.filter(x => this.names.indexOf(x.name) !== -1);
-    }
-  }
+      return this.rawData.filter((x) => this.names.indexOf(x.name) !== -1);
+    },
+  },
 };
 </script>
 

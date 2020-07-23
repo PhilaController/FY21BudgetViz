@@ -18,7 +18,7 @@ function currencyFormatter(x) {
 
 export default {
   components: {
-    apexchart: VueApexCharts
+    apexchart: VueApexCharts,
   },
   props: ["rawData", "name", "color", "height"],
   data() {
@@ -27,8 +27,8 @@ export default {
         "2020 (Adopted)",
         "2021 (Proposed)",
         "2021 (Revised)",
-        "2021 (Adopted)"
-      ]
+        "2021 (Adopted)",
+      ],
     };
   },
   computed: {
@@ -37,13 +37,13 @@ export default {
         chart: {
           animations: { enabled: false },
           zoom: {
-            enabled: false
+            enabled: false,
           },
-          sparkline: { enabled: true }
+          sparkline: { enabled: true },
         },
         grid: { padding: { left: 20, right: 20, top: 20, bottom: 20 } },
         dataLabels: {
-          enabled: false
+          enabled: false,
         },
         annotations: {
           position: "back",
@@ -55,19 +55,19 @@ export default {
               strokeDashArray: 0,
               label: {
                 borderWidth: 0,
-                text: ""
-              }
-            }
-          ]
+                text: "",
+              },
+            },
+          ],
         },
         fill: {
           type: "solid",
           opacity: 0.35,
-          colors: [this.color]
+          colors: [this.color],
         },
         stroke: {
           curve: "straight",
-          colors: [this.color]
+          colors: [this.color],
         },
         tooltip: {
           style: { fontSize: "1rem" },
@@ -76,41 +76,41 @@ export default {
           y: {
             formatter: currencyFormatter,
             title: {
-              formatter: seriesName => ""
-            }
+              formatter: (seriesName) => "",
+            },
           },
-          x: { show: true }
+          x: { show: true },
         },
         markers: {
           size: 6,
           strokeColor: this.color,
           colors: ["#ffffff"],
-          strokeWidth: 3
+          strokeWidth: 3,
         },
         states: {
           hover: {
             filter: {
-              type: "none"
-            }
+              type: "none",
+            },
           },
           active: {
             filter: {
-              type: "none"
-            }
-          }
+              type: "none",
+            },
+          },
         },
         xaxis: {
           tooltip: {
-            enabled: false
+            enabled: false,
           },
           crosshairs: { show: false },
           categories: [
             "FY20 Adopted",
             "March FY21 Proposal",
             "May FY21 Proposal",
-            "FY21 Adopted"
-          ]
-        }
+            "FY21 Adopted",
+          ],
+        },
       };
     },
     series() {
@@ -123,11 +123,11 @@ export default {
         {
           name: "Budget",
           data: out,
-          type: "area"
-        }
+          type: "area",
+        },
       ];
-    }
-  }
+    },
+  },
 };
 </script>
 

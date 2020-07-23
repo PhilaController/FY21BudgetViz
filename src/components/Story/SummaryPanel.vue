@@ -67,25 +67,25 @@ import * as d3 from "d3";
 export default {
   components: {
     Scrollama,
-    SummaryChart
+    SummaryChart,
   },
   props: ["rawData"],
   data() {
     return {
-      currStep: null
+      currStep: null,
     };
   },
   computed: {
     FY20_total() {
-      return d3.sum(this.rawData, d => d["2020 (Adopted)"]);
+      return d3.sum(this.rawData, (d) => d["2020 (Adopted)"]);
     },
     FY21_total() {
-      return d3.sum(this.rawData, d => d["2021 (Adopted)"]);
+      return d3.sum(this.rawData, (d) => d["2021 (Adopted)"]);
     },
 
     smallScreen() {
       return window.screen.width < 768;
-    }
+    },
   },
   methods: {
     stepEnterHandler({ element }) {
@@ -114,8 +114,8 @@ export default {
     getFormattedChange() {
       let diff = this.FY21_total - this.FY20_total;
       return netChangeFormatFn(diff);
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -149,9 +149,12 @@ export default {
 @media only screen and (max-width: 767px) {
   .summary-panel .step {
     margin-left: 0rem;
-    background-color: rgb(256, 256, 256, 0.8);
+    background-color: rgb(256, 256, 256, 0.9);
     margin-bottom: 75vh;
     opacity: 1;
+  }
+  .summary-panel .graphic {
+    margin-top: 2rem;
   }
 }
 

@@ -92,11 +92,11 @@
       <div class="step" data-step-no="7">
         <p>
           Funding for two departments were eliminated completely, although some
-          functions and personnel were transfered to other departments. The
+          functions and personnel were transferred to other departments. The
           <span class="font-weight-bold"
             >Office of Arts, Culture, and the Creative Economy</span
           >
-          was eliminated (<span class="font-weight-bold">-$4.4M</span>), and the
+          was eliminated (<span class="font-weight-bold">-$4.1M</span>), and the
           <span class="font-weight-bold"
             >Office of the City Representative</span
           >

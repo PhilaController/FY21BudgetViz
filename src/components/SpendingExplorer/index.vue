@@ -1,7 +1,7 @@
 <template>
   <BudgetExplorer
-    label="revenue"
-    vizClass="revenue-explorer"
+    label="spending"
+    vizClass="spending-explorer"
     :rawData="rawData"
     :viewingOptions="viewingOptions"
     :viewingConfig="viewingConfig"
@@ -19,13 +19,12 @@ export default {
   components: { BudgetExplorer },
   data() {
     return {
-      annotationLabels: ["Revenue increases", "Revenue decreases"],
-      viewingOptions: ["All Changes", "By Revenue Source"],
+      annotationLabels: ["Budget increases", "Budget cuts"],
+      viewingOptions: ["All Changes"],
       tableConfig: {
-        grouped: ["By Revenue Source"],
+        grouped: ["All Changes"],
         groupby: {
-          "All Changes": "name",
-          "By Revenue Source": "revenue_source"
+          "All Changes": "name"
         },
         childColumns: {},
         headerColumns: [
@@ -35,42 +34,35 @@ export default {
             required: true
           },
           {
-            label: "Revenue Source",
-            field: "revenue_source",
+            label: "Major Class",
+            field: "major_class_description",
             required: true
           }
         ]
       },
-      rawData: require("@/data/revenue_revisions.json")
+      rawData: require("@/data/budget_changes_by_major_class.json")
     };
   },
   computed: {
+    smallScreen() {
+      return window.screen.width <= 768;
+    },
     legendConfig() {
       return {
-        sizes: !this.smallScreen ? [1e6, 50e6, 200e6] : [1e6, 200e6],
-        colorScaleDomain: [-0.3, 0.3],
-        label: "projected revenues"
+        sizes: this.smallScreen ? [5e6, 125e6] : [5e6, 50e6, 125e6],
+        colorScaleDomain: [-1, 1],
+        label: "budgeted spending"
       };
     },
     viewingConfig() {
       return {
         "All Changes": {
           columns: 1,
-          height: 250,
+          height: 400,
           force_type: "charge",
-          force_strength: 0.1
-        },
-        "By Revenue Source": {
-          columns: this.smallScreen ? 1 : 3,
-          height: this.smallScreen ? 550 : 300,
-          groupby: "revenue_source",
-          force_type: "collide",
-          force_strength: 0.05
+          force_strength: 0.3
         }
       };
-    },
-    smallScreen() {
-      return window.screen.width <= 768;
     }
   }
 };

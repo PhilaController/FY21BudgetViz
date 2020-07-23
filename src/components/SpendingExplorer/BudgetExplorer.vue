@@ -1,21 +1,6 @@
 <template>
   <!-- Outside wrapper -->
   <div class="budget-explorer-container">
-    <!-- User Toolbar -->
-    <div class="title d-flex flex-column justify-content-center mb-5">
-      <div>Compare the adopted FY 2021 {{ label }} level to the:</div>
-      <div>
-        <!-- Year Selection -->
-        <MyDropdown
-          class="title-dropdown"
-          ref="comparisonDropdown"
-          :options="comparisonOptions"
-          :defaultValue="selectedComparison"
-          @change="updateComparisonDropdown($event, 'selectedComparison')"
-        />
-      </div>
-    </div>
-
     <!-- Budget Explorer Viz -->
     <BudgetExplorerViz
       :width="totalWidth"
@@ -34,7 +19,6 @@
 
 <script>
 import * as d3 from "d3";
-import MyDropdown from "./MyDropdown";
 import RadioButtonToolbar from "./RadioButtonToolbar";
 import BudgetExplorerViz from "./BudgetExplorerViz";
 import { formatFn } from "@/utils/formatFns";
@@ -43,7 +27,7 @@ import { formatFn } from "@/utils/formatFns";
 const COMPARISON = ["2020 (Adopted)", "2021 (Proposed)", "2021 (Revised)"];
 
 export default {
-  components: { MyDropdown, RadioButtonToolbar, BudgetExplorerViz },
+  components: { RadioButtonToolbar, BudgetExplorerViz },
   props: [
     "label",
     "rawData",

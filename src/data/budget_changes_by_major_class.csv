@@ -1,540 +1,498 @@
-dept_name,major_class_description,2021 (Proposed),2021 (Revised),2021 (Adopted),2020 (Adopted),name,category_code_description
-City Council,Advances & Misc.,100,100.0,100.0,100,City Council,Legislative & Elections
-City Council,Contrib./Indemnities,100,100.0,25000100.0,100,City Council,Legislative & Elections
-City Council,Debt Service,0,0.0,0.0,0,City Council,Legislative & Elections
-City Council,Materials/Equip.,528650,428650.0,428650.0,528650,City Council,Legislative & Elections
-City Council,Payments to Other Funds,100,100.0,100.0,100,City Council,Legislative & Elections
-City Council,Personal Services,15627138,14877138.0,14877138.0,15427138,City Council,Legislative & Elections
-City Council,Purchase of Services,2121885,1971885.0,1976885.0,1971885,City Council,Legislative & Elections
-Labor,Advances & Misc.,0,0.0,0.0,0,Labor,Finance & Administration
-Labor,Contrib./Indemnities,0,0.0,0.0,0,Labor,Finance & Administration
-Labor,Debt Service,0,0.0,0.0,0,Labor,Finance & Administration
-Labor,Materials/Equip.,88420,86420.0,86420.0,68460,Labor,Finance & Administration
-Labor,Payments to Other Funds,0,0.0,0.0,0,Labor,Finance & Administration
-Labor,Personal Services,2606104,2345467.0,2395467.0,2065091,Labor,Finance & Administration
-Labor,Purchase of Services,429717,340217.0,357217.0,321277,Labor,Finance & Administration
-Innovation and Technology,Advances & Misc.,0,0.0,0.0,0,Innovation and Technology,Finance & Administration
-Innovation and Technology,Contrib./Indemnities,0,0.0,0.0,0,Innovation and Technology,Finance & Administration
-Innovation and Technology,Debt Service,0,0.0,0.0,0,Innovation and Technology,Finance & Administration
-Innovation and Technology,Materials/Equip.,9768723,6396428.0,6396428.0,5931046,Innovation and Technology,Finance & Administration
-Innovation and Technology,Payments to Other Funds,0,0.0,0.0,0,Innovation and Technology,Finance & Administration
-Innovation and Technology,Personal Services,25030362,22799860.0,22822147.0,22462148,Innovation and Technology,Finance & Administration
-Innovation and Technology,Purchase of Services,50235974,46576598.0,46576598.0,42805345,Innovation and Technology,Finance & Administration
-Innovation and Technology,Advances & Misc.,0,0.0,0.0,0,OIT: 911,Finance & Administration
-Innovation and Technology,Contrib./Indemnities,0,0.0,0.0,0,OIT: 911,Finance & Administration
-Innovation and Technology,Debt Service,0,0.0,0.0,0,OIT: 911,Finance & Administration
-Innovation and Technology,Materials/Equip.,8064399,23064399.0,23064399.0,13537978,OIT: 911,Finance & Administration
-Innovation and Technology,Payments to Other Funds,0,0.0,0.0,0,OIT: 911,Finance & Administration
-Innovation and Technology,Personal Services,1341547,1341547.0,1341547.0,1416547,OIT: 911,Finance & Administration
-Innovation and Technology,Purchase of Services,14159009,29159009.0,29159009.0,26280561,OIT: 911,Finance & Administration
-Mayor,Advances & Misc.,0,0.0,0.0,0,Mayor,Finance & Administration
-Mayor,Contrib./Indemnities,0,0.0,0.0,0,Mayor,Finance & Administration
-Mayor,Debt Service,0,0.0,0.0,0,Mayor,Finance & Administration
-Mayor,Materials/Equip.,41841,41341.0,41341.0,34841,Mayor,Finance & Administration
-Mayor,Payments to Other Funds,0,0.0,0.0,0,Mayor,Finance & Administration
-Mayor,Personal Services,6022980,5645991.0,5775991.0,5393827,Mayor,Finance & Administration
-Mayor,Purchase of Services,759965,646260.0,646260.0,684965,Mayor,Finance & Administration
-Mayor,Advances & Misc.,0,0.0,0.0,0,Mayor: Scholarships,Education
-Mayor,Contrib./Indemnities,200000,100000.0,100000.0,200000,Mayor: Scholarships,Education
-Mayor,Debt Service,0,0.0,0.0,0,Mayor: Scholarships,Education
-Mayor,Materials/Equip.,0,0.0,0.0,0,Mayor: Scholarships,Education
-Mayor,Payments to Other Funds,0,0.0,0.0,0,Mayor: Scholarships,Education
-Mayor,Personal Services,0,0.0,0.0,0,Mayor: Scholarships,Education
-Mayor,Purchase of Services,0,0.0,0.0,0,Mayor: Scholarships,Education
-Community Empowerment,Advances & Misc.,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Contrib./Indemnities,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Debt Service,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Materials/Equip.,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Payments to Other Funds,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Personal Services,90000,45000.0,45000.0,90000,Community Empowerment and Opportunity,Community Services
-Community Empowerment,Purchase of Services,0,0.0,0.0,0,Community Empowerment and Opportunity,Community Services
-Managing Director,Advances & Misc.,0,0.0,0.0,0,Managing Director,Finance & Administration
-Managing Director,Contrib./Indemnities,0,0.0,1350000.0,0,Managing Director,Finance & Administration
-Managing Director,Debt Service,0,0.0,0.0,0,Managing Director,Finance & Administration
-Managing Director,Materials/Equip.,1135979,727059.0,1556787.0,1136979,Managing Director,Finance & Administration
-Managing Director,Payments to Other Funds,0,0.0,0.0,0,Managing Director,Finance & Administration
-Managing Director,Personal Services,26914856,21610374.0,36119907.0,23170579,Managing Director,Finance & Administration
-Managing Director,Purchase of Services,38700659,29697359.0,31588550.0,30973162,Managing Director,Finance & Administration
-Managing Director,Advances & Misc.,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Contrib./Indemnities,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Debt Service,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Materials/Equip.,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Payments to Other Funds,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Personal Services,0,0.0,0.0,0,MDO: Legal Services,Finance & Administration
-Managing Director,Purchase of Services,50938541,48904181.0,50104181.0,50938541,MDO: Legal Services,Finance & Administration
-Police,Advances & Misc.,0,0.0,0.0,0,Police,Public Safety
-Police,Contrib./Indemnities,0,0.0,0.0,0,Police,Public Safety
-Police,Debt Service,0,0.0,0.0,0,Police,Public Safety
-Police,Materials/Equip.,13623740,13623740.0,12794012.0,14452710,Police,Public Safety
-Police,Payments to Other Funds,0,0.0,0.0,0,Police,Public Safety
-Police,Personal Services,722578307,736537168.0,704077967.0,718359324,Police,Public Safety
-Police,Purchase of Services,10135755,10135755.0,10135755.0,8353063,Police,Public Safety
-Streets,Advances & Misc.,0,0.0,0.0,0,Streets,Infrastructure Services
-Streets,Contrib./Indemnities,53171,53171.0,53171.0,53171,Streets,Infrastructure Services
-Streets,Debt Service,0,0.0,0.0,0,Streets,Infrastructure Services
-Streets,Materials/Equip.,15493669,6172885.0,6172885.0,7704196,Streets,Infrastructure Services
-Streets,Payments to Other Funds,0,0.0,0.0,0,Streets,Infrastructure Services
-Streets,Personal Services,94376380,85751470.0,87283619.0,90464913,Streets,Infrastructure Services
-Streets,Purchase of Services,60045430,59512680.0,59512680.0,58810652,Streets,Infrastructure Services
-Fire,Advances & Misc.,0,0.0,0.0,0,Fire,Public Safety
-Fire,Contrib./Indemnities,0,0.0,0.0,0,Fire,Public Safety
-Fire,Debt Service,0,0.0,0.0,0,Fire,Public Safety
-Fire,Materials/Equip.,9192914,9192914.0,9192914.0,8831714,Fire,Public Safety
-Fire,Payments to Other Funds,9882000,9882000.0,9882000.0,9235000,Fire,Public Safety
-Fire,Personal Services,280845696,295015892.0,289256642.0,273966292,Fire,Public Safety
-Fire,Purchase of Services,6724702,6724702.0,6724702.0,6516272,Fire,Public Safety
-Public Health,Advances & Misc.,0,0.0,0.0,0,Public Health,Community Services
-Public Health,Contrib./Indemnities,0,0.0,0.0,0,Public Health,Community Services
-Public Health,Debt Service,0,0.0,0.0,0,Public Health,Community Services
-Public Health,Materials/Equip.,7577448,6768973.0,6768973.0,7519148,Public Health,Community Services
-Public Health,Payments to Other Funds,4423404,4423404.0,4423404.0,4500000,Public Health,Community Services
-Public Health,Personal Services,59231953,57276573.0,57654465.0,58328165,Public Health,Community Services
-Public Health,Purchase of Services,95999824,90506143.0,90506143.0,90224827,Public Health,Community Services
-Behavioral Health,Advances & Misc.,0,0.0,0.0,0,Behavioral Health,Community Services
-Behavioral Health,Contrib./Indemnities,0,0.0,0.0,0,Behavioral Health,Community Services
-Behavioral Health,Debt Service,0,0.0,0.0,0,Behavioral Health,Community Services
-Behavioral Health,Materials/Equip.,0,0.0,0.0,0,Behavioral Health,Community Services
-Behavioral Health,Payments to Other Funds,0,0.0,0.0,0,Behavioral Health,Community Services
-Behavioral Health,Personal Services,1770431,1545668.0,1546510.0,1534468,Behavioral Health,Community Services
-Behavioral Health,Purchase of Services,13930892,13930892.0,13930892.0,14360976,Behavioral Health,Community Services
-Parks & Rec,Advances & Misc.,0,0.0,0.0,0,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Contrib./Indemnities,2511000,0.0,1500000.0,2711000,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Debt Service,0,0.0,0.0,0,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Materials/Equip.,2740630,2022225.0,2022225.0,2740630,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Payments to Other Funds,0,0.0,0.0,0,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Personal Services,53864318,46540030.0,46921787.0,52490935,Parks & Rec,"Recreation, Arts & Culture"
-Parks & Rec,Purchase of Services,6707490,4482142.0,4482142.0,7115490,Parks & Rec,"Recreation, Arts & Culture"
-Atwater Kent,Advances & Misc.,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Contrib./Indemnities,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Debt Service,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Materials/Equip.,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Payments to Other Funds,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Personal Services,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Atwater Kent,Purchase of Services,0,0.0,0.0,0,Atwater Kent,"Recreation, Arts & Culture"
-Public Property,Advances & Misc.,0,0.0,0.0,0,Public Property,Infrastructure Services
-Public Property,Contrib./Indemnities,0,0.0,0.0,0,Public Property,Infrastructure Services
-Public Property,Debt Service,0,0.0,0.0,0,Public Property,Infrastructure Services
-Public Property,Materials/Equip.,1338535,1338535.0,1338535.0,1338535,Public Property,Infrastructure Services
-Public Property,Payments to Other Funds,28235000,28235000.0,28235000.0,26643000,Public Property,Infrastructure Services
-Public Property,Personal Services,12256621,10062340.0,10101149.0,9395654,Public Property,Infrastructure Services
-Public Property,Purchase of Services,33893532,30549657.0,30549657.0,31314408,Public Property,Infrastructure Services
-Public Property,Advances & Misc.,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Contrib./Indemnities,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Debt Service,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Materials/Equip.,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Payments to Other Funds,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Personal Services,0,0.0,0.0,0,Space Rentals,Infrastructure Services
-Public Property,Purchase of Services,29555004,25567715.0,25567715.0,26278677,Space Rentals,Infrastructure Services
-Public Property,Advances & Misc.,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Contrib./Indemnities,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Debt Service,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Materials/Equip.,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Payments to Other Funds,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Personal Services,0,0.0,0.0,0,SEPTA Subsidy,Infrastructure Services
-Public Property,Purchase of Services,88955000,84608000.0,84608000.0,87556000,SEPTA Subsidy,Infrastructure Services
-Public Property,Advances & Misc.,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Contrib./Indemnities,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Debt Service,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Materials/Equip.,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Payments to Other Funds,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Personal Services,0,0.0,0.0,0,Utilities,Infrastructure Services
-Public Property,Purchase of Services,25447623,25447623.0,25447623.0,27393339,Utilities,Infrastructure Services
-Human Services,Advances & Misc.,0,0.0,0.0,0,Human Services,Community Services
-Human Services,Contrib./Indemnities,0,0.0,0.0,0,Human Services,Community Services
-Human Services,Debt Service,0,0.0,0.0,0,Human Services,Community Services
-Human Services,Materials/Equip.,2111970,2111970.0,2111970.0,2069970,Human Services,Community Services
-Human Services,Payments to Other Funds,0,0.0,0.0,0,Human Services,Community Services
-Human Services,Personal Services,30750730,30688565.0,31673433.42,27646449,Human Services,Community Services
-Human Services,Purchase of Services,146055809,129305230.0,129305230.0,89248594,Human Services,Community Services
-Prisons,Advances & Misc.,0,0.0,0.0,0,Prisons,Public Safety
-Prisons,Contrib./Indemnities,1601757,1201757.0,1201757.0,1201757,Prisons,Public Safety
-Prisons,Debt Service,0,0.0,0.0,0,Prisons,Public Safety
-Prisons,Materials/Equip.,4373744,4016769.0,4016769.0,4373744,Prisons,Public Safety
-Prisons,Payments to Other Funds,0,0.0,0.0,0,Prisons,Public Safety
-Prisons,Personal Services,139765668,124008270.0,126599446.0,139765668,Prisons,Public Safety
-Prisons,Purchase of Services,107442354,87975948.0,88351948.0,92842354,Prisons,Public Safety
-Homeless Services,Advances & Misc.,0,0.0,0.0,0,Homeless Services,Community Services
-Homeless Services,Contrib./Indemnities,32421,32421.0,32421.0,32421,Homeless Services,Community Services
-Homeless Services,Debt Service,0,0.0,0.0,0,Homeless Services,Community Services
-Homeless Services,Materials/Equip.,344127,344127.0,344127.0,344127,Homeless Services,Community Services
-Homeless Services,Payments to Other Funds,0,0.0,0.0,0,Homeless Services,Community Services
-Homeless Services,Personal Services,9705823,8014343.0,8068689.0,9545748,Homeless Services,Community Services
-Homeless Services,Purchase of Services,50719674,39593350.0,35593350.0,50023423,Homeless Services,Community Services
-Fleet,Advances & Misc.,0,0.0,0.0,0,Fleet,Finance & Administration
-Fleet,Contrib./Indemnities,0,0.0,0.0,0,Fleet,Finance & Administration
-Fleet,Debt Service,0,0.0,0.0,0,Fleet,Finance & Administration
-Fleet,Materials/Equip.,26463211,22376873.0,22376873.0,25391767,Fleet,Finance & Administration
-Fleet,Payments to Other Funds,0,0.0,0.0,0,Fleet,Finance & Administration
-Fleet,Personal Services,19524871,18824339.0,19073455.0,19416871,Fleet,Finance & Administration
-Fleet,Purchase of Services,5353396,5353396.0,5353396.0,5305396,Fleet,Finance & Administration
-Fleet,Advances & Misc.,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Contrib./Indemnities,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Debt Service,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Materials/Equip.,14797739,9797739.0,9797739.0,17286549,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Payments to Other Funds,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Personal Services,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Fleet,Purchase of Services,0,0.0,0.0,0,Vehicle Purchases/Leases,Finance & Administration
-Licenses & Inspections,Advances & Misc.,0,0.0,0.0,0,Licenses & Inspections,Regulatory
-Licenses & Inspections,Contrib./Indemnities,0,0.0,0.0,0,Licenses & Inspections,Regulatory
-Licenses & Inspections,Debt Service,0,0.0,0.0,0,Licenses & Inspections,Regulatory
-Licenses & Inspections,Materials/Equip.,934475,834475.0,834475.0,911397,Licenses & Inspections,Regulatory
-Licenses & Inspections,Payments to Other Funds,0,0.0,0.0,0,Licenses & Inspections,Regulatory
-Licenses & Inspections,Personal Services,26104611,23743982.0,23970217.0,25967209,Licenses & Inspections,Regulatory
-Licenses & Inspections,Purchase of Services,14640359,13140359.0,13447002.0,14403945,Licenses & Inspections,Regulatory
-Board of Review,Advances & Misc.,0,0.0,0.0,0,L&I: Board of Review,Regulatory
-Board of Review,Contrib./Indemnities,0,0.0,0.0,0,L&I: Board of Review,Regulatory
-Board of Review,Debt Service,0,0.0,0.0,0,L&I: Board of Review,Regulatory
-Board of Review,Materials/Equip.,0,0.0,0.0,0,L&I: Board of Review,Regulatory
-Board of Review,Payments to Other Funds,0,0.0,0.0,0,L&I: Board of Review,Regulatory
-Board of Review,Personal Services,163434,164544.0,165635.0,163434,L&I: Board of Review,Regulatory
-Board of Review,Purchase of Services,10436,10436.0,10436.0,10436,L&I: Board of Review,Regulatory
-Board of Bldg. Stds.,Advances & Misc.,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Contrib./Indemnities,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Debt Service,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Materials/Equip.,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Payments to Other Funds,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Personal Services,80366,82018.0,82018.0,80366,L&I: Board of Building Standards,Regulatory
-Board of Bldg. Stds.,Purchase of Services,0,0.0,0.0,0,L&I: Board of Building Standards,Regulatory
-Records,Advances & Misc.,0,0.0,0.0,0,Records,Finance & Administration
-Records,Contrib./Indemnities,1456,0.0,0.0,1456,Records,Finance & Administration
-Records,Debt Service,0,0.0,0.0,0,Records,Finance & Administration
-Records,Materials/Equip.,143758,143758.0,143758.0,143758,Records,Finance & Administration
-Records,Payments to Other Funds,0,0.0,0.0,0,Records,Finance & Administration
-Records,Personal Services,3258159,3079932.0,3117312.0,3226285,Records,Finance & Administration
-Records,Purchase of Services,1538779,743265.0,743265.0,1538779,Records,Finance & Administration
-Art Museum,Advances & Misc.,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Contrib./Indemnities,2550000,2040000.0,2040000.0,2550000,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Debt Service,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Materials/Equip.,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Payments to Other Funds,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Personal Services,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Art Museum,Purchase of Services,0,0.0,0.0,0,Art Museum,"Recreation, Arts & Culture"
-Finance,Advances & Misc.,0,0.0,0.0,0,Finance,Finance & Administration
-Finance,Contrib./Indemnities,3595000,950000.0,1250000.0,4725000,Finance,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Finance,Finance & Administration
-Finance,Materials/Equip.,103109,35616.0,35616.0,103109,Finance,Finance & Administration
-Finance,Payments to Other Funds,21143000,4500000.0,24500000.0,28285000,Finance,Finance & Administration
-Finance,Personal Services,11866911,10278838.0,10312396.0,9084313,Finance,Finance & Administration
-Finance,Purchase of Services,3361912,2626660.0,2626660.0,3029912,Finance,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Contrib./Indemnities,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Debt Service,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Materials/Equip.,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Payments to Other Funds,36528000,0.0,0.0,34276000,Budget Stabilization Reserve,Budget Reserves
-Finance,Personal Services,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Purchase of Services,0,0.0,0.0,0,Budget Stabilization Reserve,Budget Reserves
-Finance,Advances & Misc.,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Contrib./Indemnities,54498018,44110159.0,44110159.0,33759207,Community College Subsidy,Education
-Finance,Debt Service,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Materials/Equip.,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Payments to Other Funds,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Personal Services,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Purchase of Services,0,0.0,0.0,0,Community College Subsidy,Education
-Finance,Advances & Misc.,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Contrib./Indemnities,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Personal Services,1430746607,1382872245.0,1287159003.0,1411963002,Employee Benefits,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Employee Benefits,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Hero Awards,Education
-Finance,Contrib./Indemnities,25000,25000.0,25000.0,25000,Hero Awards,Education
-Finance,Debt Service,0,0.0,0.0,0,Hero Awards,Education
-Finance,Materials/Equip.,0,0.0,0.0,0,Hero Awards,Education
-Finance,Payments to Other Funds,0,0.0,0.0,0,Hero Awards,Education
-Finance,Personal Services,0,0.0,0.0,0,Hero Awards,Education
-Finance,Purchase of Services,0,0.0,0.0,0,Hero Awards,Education
-Finance,Advances & Misc.,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Contrib./Indemnities,50320000,49246000.0,49246000.0,49246000,Indemnities,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Personal Services,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Indemnities,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Advances & Misc.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Refunds,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Refunds,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Refunds,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Contrib./Indemnities,250000,250000.0,250000.0,250000,Refunds,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Refunds,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Refunds,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Refunds,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Disability Reg #32 Payroll,Finance & Administration
-Finance,Personal Services,2650000,2650000.0,2650000.0,2650000,Refunds,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Disability Reg #32 Payroll,Finance & Administration
-Finance,Purchase of Services,0,0.0,0.0,0,Refunds,Finance & Administration
-Finance,Advances & Misc.,56705000,50000000.0,25000000.0,55108000,Recession Reserve,Budget Reserves
-Finance,Contrib./Indemnities,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Debt Service,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Materials/Equip.,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Payments to Other Funds,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Personal Services,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Purchase of Services,0,0.0,0.0,0,Recession Reserve,Budget Reserves
-Finance,Advances & Misc.,0,0.0,0.0,0,School District Contribution,Education
-Finance,Contrib./Indemnities,267578558,252578558.0,252578558.0,222456410,School District Contribution,Education
-Finance,Debt Service,0,0.0,0.0,0,School District Contribution,Education
-Finance,Materials/Equip.,0,0.0,0.0,0,School District Contribution,Education
-Finance,Payments to Other Funds,0,0.0,0.0,0,School District Contribution,Education
-Finance,Personal Services,0,0.0,0.0,0,School District Contribution,Education
-Finance,Purchase of Services,0,0.0,0.0,0,School District Contribution,Education
-Finance,Advances & Misc.,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Contrib./Indemnities,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Debt Service,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Materials/Equip.,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Payments to Other Funds,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Personal Services,0,0.0,0.0,0,Witness Fees,Finance & Administration
-Finance,Purchase of Services,171518,171518.0,171518.0,171518,Witness Fees,Finance & Administration
-Revenue,Advances & Misc.,0,0.0,0.0,0,Revenue,Finance & Administration
-Revenue,Contrib./Indemnities,0,0.0,0.0,0,Revenue,Finance & Administration
-Revenue,Debt Service,0,0.0,0.0,0,Revenue,Finance & Administration
-Revenue,Materials/Equip.,964976,859976.0,774976.0,1188976,Revenue,Finance & Administration
-Revenue,Payments to Other Funds,0,0.0,0.0,0,Revenue,Finance & Administration
-Revenue,Personal Services,24268133,22536343.0,22648673.0,23934508,Revenue,Finance & Administration
-Revenue,Purchase of Services,7652749,5627749.0,5787749.0,7755749,Revenue,Finance & Administration
-Debt Service,Advances & Misc.,0,0.0,0.0,0,Debt Service,Finance & Administration
-Debt Service,Contrib./Indemnities,0,0.0,0.0,0,Debt Service,Finance & Administration
-Debt Service,Debt Service,181589117,181589117.0,185714117.0,187482819,Debt Service,Finance & Administration
-Debt Service,Materials/Equip.,0,0.0,0.0,0,Debt Service,Finance & Administration
-Debt Service,Payments to Other Funds,0,0.0,0.0,0,Debt Service,Finance & Administration
-Debt Service,Personal Services,0,0.0,0.0,0,Debt Service,Finance & Administration
-Debt Service,Purchase of Services,101655814,99255814.0,96918314.0,109222498,Debt Service,Finance & Administration
-Procurement,Advances & Misc.,0,0.0,0.0,0,Procurement,Finance & Administration
-Procurement,Contrib./Indemnities,0,0.0,0.0,0,Procurement,Finance & Administration
-Procurement,Debt Service,0,0.0,0.0,0,Procurement,Finance & Administration
-Procurement,Materials/Equip.,49054,40194.0,40194.0,49054,Procurement,Finance & Administration
-Procurement,Payments to Other Funds,0,0.0,0.0,0,Procurement,Finance & Administration
-Procurement,Personal Services,2738906,2430908.0,2436508.0,2709242,Procurement,Finance & Administration
-Procurement,Purchase of Services,2316267,2273634.0,2283634.0,2916267,Procurement,Finance & Administration
-City Treasurer,Advances & Misc.,0,0.0,0.0,0,City Treasurer,Finance & Administration
-City Treasurer,Contrib./Indemnities,0,0.0,0.0,0,City Treasurer,Finance & Administration
-City Treasurer,Debt Service,0,0.0,0.0,0,City Treasurer,Finance & Administration
-City Treasurer,Materials/Equip.,22224,22224.0,22224.0,22224,City Treasurer,Finance & Administration
-City Treasurer,Payments to Other Funds,0,0.0,0.0,0,City Treasurer,Finance & Administration
-City Treasurer,Personal Services,1472266,1366107.0,1368170.0,1262499,City Treasurer,Finance & Administration
-City Treasurer,Purchase of Services,199444,193544.0,193544.0,198444,City Treasurer,Finance & Administration
-City Rep,Advances & Misc.,0,0.0,0.0,0,City Representative,City Development
-City Rep,Contrib./Indemnities,0,0.0,0.0,0,City Representative,City Development
-City Rep,Debt Service,0,0.0,0.0,0,City Representative,City Development
-City Rep,Materials/Equip.,54000,0.0,0.0,54000,City Representative,City Development
-City Rep,Payments to Other Funds,0,0.0,0.0,0,City Representative,City Development
-City Rep,Personal Services,887398,0.0,0.0,795916,City Representative,City Development
-City Rep,Purchase of Services,415779,0.0,0.0,399779,City Representative,City Development
-Commerce,Advances & Misc.,0,0.0,0.0,0,Commerce,City Development
-Commerce,Contrib./Indemnities,500000,0.0,0.0,500000,Commerce,City Development
-Commerce,Debt Service,0,0.0,0.0,0,Commerce,City Development
-Commerce,Materials/Equip.,26654,26654.0,26654.0,26654,Commerce,City Development
-Commerce,Payments to Other Funds,0,0.0,0.0,0,Commerce,City Development
-Commerce,Personal Services,3921080,1424704.0,2394341.0,3469881,Commerce,City Development
-Commerce,Purchase of Services,5148232,0.0,1216153.0,5854826,Commerce,City Development
-Commerce,Advances & Misc.,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Contrib./Indemnities,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Debt Service,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Materials/Equip.,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Payments to Other Funds,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Personal Services,0,0.0,0.0,0,Convention Center Subsidy,City Development
-Commerce,Purchase of Services,15000000,15000000.0,15000000.0,15000000,Convention Center Subsidy,City Development
-Commerce,Advances & Misc.,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Contrib./Indemnities,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Debt Service,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Materials/Equip.,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Payments to Other Funds,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Personal Services,0,0.0,0.0,0,Economic Stimulus,City Development
-Commerce,Purchase of Services,1171624,4000000.0,3015000.0,7671624,Economic Stimulus,City Development
-Law,Advances & Misc.,0,0.0,0.0,0,Law,Finance & Administration
-Law,Contrib./Indemnities,0,0.0,0.0,0,Law,Finance & Administration
-Law,Debt Service,0,0.0,0.0,0,Law,Finance & Administration
-Law,Materials/Equip.,248676,248676.0,184676.0,248676,Law,Finance & Administration
-Law,Payments to Other Funds,0,0.0,0.0,0,Law,Finance & Administration
-Law,Personal Services,9749076,7955772.0,9520003.0,9427335,Law,Finance & Administration
-Law,Purchase of Services,6309034,6309034.0,5309427.0,6409034,Law,Finance & Administration
-Board of Ethics,Advances & Misc.,0,0.0,0.0,0,Board of Ethics,Regulatory
-Board of Ethics,Contrib./Indemnities,0,0.0,0.0,0,Board of Ethics,Regulatory
-Board of Ethics,Debt Service,0,0.0,0.0,0,Board of Ethics,Regulatory
-Board of Ethics,Materials/Equip.,7500,7500.0,7500.0,7500,Board of Ethics,Regulatory
-Board of Ethics,Payments to Other Funds,0,0.0,0.0,0,Board of Ethics,Regulatory
-Board of Ethics,Personal Services,1041630,890218.0,915196.0,1041630,Board of Ethics,Regulatory
-Board of Ethics,Purchase of Services,52500,52500.0,52500.0,52500,Board of Ethics,Regulatory
-Inspector General,Advances & Misc.,0,0.0,0.0,0,Inspector General,Regulatory
-Inspector General,Contrib./Indemnities,0,0.0,0.0,0,Inspector General,Regulatory
-Inspector General,Debt Service,0,0.0,0.0,0,Inspector General,Regulatory
-Inspector General,Materials/Equip.,35225,5225.0,5225.0,5225,Inspector General,Regulatory
-Inspector General,Payments to Other Funds,0,0.0,0.0,0,Inspector General,Regulatory
-Inspector General,Personal Services,1609223,1347481.0,1472481.0,1577241,Inspector General,Regulatory
-Inspector General,Purchase of Services,97975,97975.0,97975.0,97975,Inspector General,Regulatory
-Sustainability,Advances & Misc.,0,0.0,0.0,0,Sustainability,Infrastructure Services
-Sustainability,Contrib./Indemnities,0,0.0,0.0,0,Sustainability,Infrastructure Services
-Sustainability,Debt Service,0,0.0,0.0,0,Sustainability,Infrastructure Services
-Sustainability,Materials/Equip.,17840,17840.0,1000.0,17840,Sustainability,Infrastructure Services
-Sustainability,Payments to Other Funds,250000,250000.0,175000.0,250000,Sustainability,Infrastructure Services
-Sustainability,Personal Services,1054956,418165.0,603814.0,551910,Sustainability,Infrastructure Services
-Sustainability,Purchase of Services,1143508,516985.0,423366.0,393508,Sustainability,Infrastructure Services
-Mural Arts,Advances & Misc.,0,0.0,0.0,0,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Contrib./Indemnities,0,0.0,0.0,0,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Debt Service,0,0.0,0.0,0,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Materials/Equip.,0,0.0,0.0,0,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Payments to Other Funds,0,0.0,0.0,0,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Personal Services,597069,578952.0,578952.0,638987,Mural Arts,"Recreation, Arts & Culture"
-Mural Arts,Purchase of Services,1913115,1425610.0,1545610.0,1860615,Mural Arts,"Recreation, Arts & Culture"
-Free Library,Advances & Misc.,0,0.0,0.0,0,Free Library,"Recreation, Arts & Culture"
-Free Library,Contrib./Indemnities,0,0.0,0.0,0,Free Library,"Recreation, Arts & Culture"
-Free Library,Debt Service,0,0.0,0.0,0,Free Library,"Recreation, Arts & Culture"
-Free Library,Materials/Equip.,2302659,2302659.0,1842128.0,2302659,Free Library,"Recreation, Arts & Culture"
-Free Library,Payments to Other Funds,0,0.0,0.0,0,Free Library,"Recreation, Arts & Culture"
-Free Library,Personal Services,43433854,34166463.0,35549343.0,40633647,Free Library,"Recreation, Arts & Culture"
-Free Library,Purchase of Services,2824077,2824077.0,2259262.0,2824077,Free Library,"Recreation, Arts & Culture"
-Human Relations ,Advances & Misc.,0,0.0,0.0,0,Human Relations Commission,Community Services
-Human Relations ,Contrib./Indemnities,0,0.0,0.0,0,Human Relations Commission,Community Services
-Human Relations ,Debt Service,0,0.0,0.0,0,Human Relations Commission,Community Services
-Human Relations ,Materials/Equip.,28031,28031.0,28031.0,28031,Human Relations Commission,Community Services
-Human Relations ,Payments to Other Funds,0,0.0,0.0,0,Human Relations Commission,Community Services
-Human Relations ,Personal Services,2482401,2357512.0,2360285.0,2323714,Human Relations Commission,Community Services
-Human Relations ,Purchase of Services,34657,34657.0,34657.0,34657,Human Relations Commission,Community Services
-Civil Service Commission,Advances & Misc.,0,0.0,0.0,0,Civil Service Commission,Finance & Administration
-Civil Service Commission,Contrib./Indemnities,0,0.0,0.0,0,Civil Service Commission,Finance & Administration
-Civil Service Commission,Debt Service,0,0.0,0.0,0,Civil Service Commission,Finance & Administration
-Civil Service Commission,Materials/Equip.,1094,1094.0,1094.0,1094,Civil Service Commission,Finance & Administration
-Civil Service Commission,Payments to Other Funds,0,0.0,0.0,0,Civil Service Commission,Finance & Administration
-Civil Service Commission,Personal Services,174341,177148.0,177148.0,174341,Civil Service Commission,Finance & Administration
-Civil Service Commission,Purchase of Services,29500,29500.0,29500.0,29500,Civil Service Commission,Finance & Administration
-Civil Service Commission,Advances & Misc.,40000000,6716949.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Contrib./Indemnities,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Debt Service,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Materials/Equip.,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Payments to Other Funds,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Personal Services,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Civil Service Commission,Purchase of Services,0,0.0,0.0,0,Labor Reserve,Budget Reserves
-Human Resources,Advances & Misc.,0,0.0,0.0,0,Human Resources,Finance & Administration
-Human Resources,Contrib./Indemnities,0,0.0,0.0,0,Human Resources,Finance & Administration
-Human Resources,Debt Service,0,0.0,0.0,0,Human Resources,Finance & Administration
-Human Resources,Materials/Equip.,69432,69432.0,69432.0,89432,Human Resources,Finance & Administration
-Human Resources,Payments to Other Funds,0,0.0,0.0,0,Human Resources,Finance & Administration
-Human Resources,Personal Services,5577022,4296837.0,5290733.0,5555785,Human Resources,Finance & Administration
-Human Resources,Purchase of Services,1239070,1239070.0,877570.0,1229070,Human Resources,Finance & Administration
-Arts & Culture,Advances & Misc.,0,0.0,0.0,0,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Contrib./Indemnities,3370688,0.0,0.0,3370688,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Debt Service,0,0.0,0.0,0,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Materials/Equip.,7000,0.0,0.0,7000,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Payments to Other Funds,0,0.0,0.0,0,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Personal Services,579428,0.0,0.0,508300,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Arts & Culture,Purchase of Services,212014,0.0,0.0,212014,"Arts, Culture, and the Creative Economy","Recreation, Arts & Culture"
-Property Assessment,Advances & Misc.,0,0.0,0.0,0,Property Assessment,Regulatory
-Property Assessment,Contrib./Indemnities,0,0.0,0.0,0,Property Assessment,Regulatory
-Property Assessment,Debt Service,0,0.0,0.0,0,Property Assessment,Regulatory
-Property Assessment,Materials/Equip.,787600,762600.0,762600.0,787600,Property Assessment,Regulatory
-Property Assessment,Payments to Other Funds,0,0.0,0.0,0,Property Assessment,Regulatory
-Property Assessment,Personal Services,14127682,13117163.0,12918061.0,14127682,Property Assessment,Regulatory
-Property Assessment,Purchase of Services,2712400,2180632.0,2420632.0,2403126,Property Assessment,Regulatory
-City Controller,Advances & Misc.,0,0.0,0.0,0,City Controller,Regulatory
-City Controller,Contrib./Indemnities,0,0.0,0.0,0,City Controller,Regulatory
-City Controller,Debt Service,0,0.0,0.0,0,City Controller,Regulatory
-City Controller,Materials/Equip.,25000,25000.0,25000.0,25000,City Controller,Regulatory
-City Controller,Payments to Other Funds,0,0.0,0.0,0,City Controller,Regulatory
-City Controller,Personal Services,9452100,9032301.0,9045839.0,8862100,City Controller,Regulatory
-City Controller,Purchase of Services,497450,497450.0,497450.0,497450,City Controller,Regulatory
-Revision of Taxes,Advances & Misc.,0,0.0,0.0,0,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Contrib./Indemnities,0,0.0,0.0,0,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Debt Service,0,0.0,0.0,0,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Materials/Equip.,22727,17727.0,17727.0,22727,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Payments to Other Funds,0,0.0,0.0,0,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Personal Services,995164,984916.0,987587.0,962864,Board of Revision of Taxes,Regulatory
-Revision of Taxes,Purchase of Services,42900,37900.0,37900.0,75200,Board of Revision of Taxes,Regulatory
-Chief Admin. Officer,Advances & Misc.,0,0.0,0.0,0,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Contrib./Indemnities,0,0.0,0.0,0,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Debt Service,0,0.0,0.0,0,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Materials/Equip.,26665,26665.0,26665.0,26665,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Payments to Other Funds,0,0.0,0.0,0,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Personal Services,4724080,4245141.0,4256565.0,4784551,Chief Administrative Officer,Finance & Administration
-Chief Admin. Officer,Purchase of Services,2902049,2050549.0,2050549.0,2627049,Chief Administrative Officer,Finance & Administration
-Children and Families,Advances & Misc.,0,0.0,0.0,0,Children and Families,Education
-Children and Families,Contrib./Indemnities,0,0.0,0.0,0,Children and Families,Education
-Children and Families,Debt Service,0,0.0,0.0,0,Children and Families,Education
-Children and Families,Materials/Equip.,0,0.0,0.0,42000,Children and Families,Education
-Children and Families,Payments to Other Funds,0,0.0,0.0,0,Children and Families,Education
-Children and Families,Personal Services,442000,442000.0,418820.0,3292180,Children and Families,Education
-Children and Families,Purchase of Services,0,0.0,0.0,42015834,Children and Families,Education
-Register of Wills,Advances & Misc.,0,0.0,0.0,0,Register of Wills,Finance & Administration
-Register of Wills,Contrib./Indemnities,0,0.0,0.0,0,Register of Wills,Finance & Administration
-Register of Wills,Debt Service,0,0.0,0.0,0,Register of Wills,Finance & Administration
-Register of Wills,Materials/Equip.,140236,140236.0,140236.0,140236,Register of Wills,Finance & Administration
-Register of Wills,Payments to Other Funds,0,0.0,0.0,0,Register of Wills,Finance & Administration
-Register of Wills,Personal Services,4388409,3956193.0,3956193.0,4286409,Register of Wills,Finance & Administration
-Register of Wills,Purchase of Services,125000,125000.0,125000.0,125000,Register of Wills,Finance & Administration
-District Attorney,Advances & Misc.,0,0.0,0.0,0,District Attorney,Public Safety
-District Attorney,Contrib./Indemnities,0,0.0,0.0,0,District Attorney,Public Safety
-District Attorney,Debt Service,0,0.0,0.0,0,District Attorney,Public Safety
-District Attorney,Materials/Equip.,525021,420017.0,420017.0,525021,District Attorney,Public Safety
-District Attorney,Payments to Other Funds,0,0.0,0.0,0,District Attorney,Public Safety
-District Attorney,Personal Services,37516343,30221343.0,30262904.0,35016343,District Attorney,Public Safety
-District Attorney,Purchase of Services,3367172,2693738.0,2693738.0,3367172,District Attorney,Public Safety
-Sheriff,Advances & Misc.,0,0.0,0.0,0,Sheriff,Public Safety
-Sheriff,Contrib./Indemnities,0,0.0,0.0,0,Sheriff,Public Safety
-Sheriff,Debt Service,0,0.0,0.0,0,Sheriff,Public Safety
-Sheriff,Materials/Equip.,498157,498157.0,498157.0,708907,Sheriff,Public Safety
-Sheriff,Payments to Other Funds,0,0.0,0.0,0,Sheriff,Public Safety
-Sheriff,Personal Services,25443537,25165728.0,25192450.0,25443537,Sheriff,Public Safety
-Sheriff,Purchase of Services,1105267,1105267.0,1105267.0,894517,Sheriff,Public Safety
-Planning & Development,Advances & Misc.,0,0.0,0.0,0,Planning & Development,City Development
-Planning & Development,Contrib./Indemnities,7119188,0.0,0.0,1350000,Planning & Development,City Development
-Planning & Development,Debt Service,0,0.0,0.0,0,Planning & Development,City Development
-Planning & Development,Materials/Equip.,81461,80761.0,80761.0,101461,Planning & Development,City Development
-Planning & Development,Payments to Other Funds,0,0.0,0.0,0,Planning & Development,City Development
-Planning & Development,Personal Services,5273902,4825763.0,4834959.0,5167172,Planning & Development,City Development
-Planning & Development,Purchase of Services,3217113,2719463.0,3619463.0,5192113,Planning & Development,City Development
-City Commissioners,Advances & Misc.,0,0.0,0.0,0,City Commissioners,Legislative & Elections
-City Commissioners,Contrib./Indemnities,0,0.0,0.0,0,City Commissioners,Legislative & Elections
-City Commissioners,Debt Service,0,0.0,0.0,0,City Commissioners,Legislative & Elections
-City Commissioners,Materials/Equip.,5634635,572617.0,572617.0,572617,City Commissioners,Legislative & Elections
-City Commissioners,Payments to Other Funds,0,0.0,0.0,0,City Commissioners,Legislative & Elections
-City Commissioners,Personal Services,10072191,6646013.0,6714174.0,6633233,City Commissioners,Legislative & Elections
-City Commissioners,Purchase of Services,6758929,5011061.0,5011061.0,5011061,City Commissioners,Legislative & Elections
-First Judicial District,Advances & Misc.,0,0.0,0.0,0,First Judicial District,Public Safety
-First Judicial District,Contrib./Indemnities,0,0.0,0.0,0,First Judicial District,Public Safety
-First Judicial District,Debt Service,0,0.0,0.0,0,First Judicial District,Public Safety
-First Judicial District,Materials/Equip.,2231868,2231868.0,2231868.0,2231868,First Judicial District,Public Safety
-First Judicial District,Payments to Other Funds,0,0.0,0.0,0,First Judicial District,Public Safety
-First Judicial District,Personal Services,105608619,105324122.0,105324122.0,104792068,First Judicial District,Public Safety
-First Judicial District,Purchase of Services,9426545,8480039.0,8480039.0,8480039,First Judicial District,Public Safety
+dept_name,major_class_description,2021 (Adopted),2020 (Adopted),name
+City Council,Advances & Misc.,100.0,100,City Council
+City Council,Contrib./Indemnities,25000100.0,100,City Council
+City Council,Debt Service,0.0,0,City Council
+City Council,Materials/Equip.,428650.0,528650,City Council
+City Council,Payments to Other Funds,100.0,100,City Council
+City Council,Personal Services,14877138.0,15427138,City Council
+City Council,Purchase of Services,1976885.0,1971885,City Council
+Labor,Advances & Misc.,0.0,0,Labor
+Labor,Contrib./Indemnities,0.0,0,Labor
+Labor,Debt Service,0.0,0,Labor
+Labor,Materials/Equip.,86420.0,68460,Labor
+Labor,Payments to Other Funds,0.0,0,Labor
+Labor,Personal Services,2395467.0,2065091,Labor
+Labor,Purchase of Services,357217.0,321277,Labor
+Innovation and Technology,Advances & Misc.,0.0,0,Innovation and Technology
+Innovation and Technology,Contrib./Indemnities,0.0,0,Innovation and Technology
+Innovation and Technology,Debt Service,0.0,0,Innovation and Technology
+Innovation and Technology,Materials/Equip.,6396428.0,5931046,Innovation and Technology
+Innovation and Technology,Payments to Other Funds,0.0,0,Innovation and Technology
+Innovation and Technology,Personal Services,22822147.0,22462148,Innovation and Technology
+Innovation and Technology,Purchase of Services,46576598.0,42805345,Innovation and Technology
+Innovation and Technology,Advances & Misc.,0.0,0,OIT: 911
+Innovation and Technology,Contrib./Indemnities,0.0,0,OIT: 911
+Innovation and Technology,Debt Service,0.0,0,OIT: 911
+Innovation and Technology,Materials/Equip.,23064399.0,13537978,OIT: 911
+Innovation and Technology,Payments to Other Funds,0.0,0,OIT: 911
+Innovation and Technology,Personal Services,1341547.0,1416547,OIT: 911
+Innovation and Technology,Purchase of Services,29159009.0,26280561,OIT: 911
+Mayor,Advances & Misc.,0.0,0,Mayor
+Mayor,Contrib./Indemnities,0.0,0,Mayor
+Mayor,Debt Service,0.0,0,Mayor
+Mayor,Materials/Equip.,41341.0,34841,Mayor
+Mayor,Payments to Other Funds,0.0,0,Mayor
+Mayor,Personal Services,5775991.0,5393827,Mayor
+Mayor,Purchase of Services,646260.0,684965,Mayor
+Mayor,Advances & Misc.,0.0,0,Mayor: Scholarships
+Mayor,Contrib./Indemnities,100000.0,200000,Mayor: Scholarships
+Mayor,Debt Service,0.0,0,Mayor: Scholarships
+Mayor,Materials/Equip.,0.0,0,Mayor: Scholarships
+Mayor,Payments to Other Funds,0.0,0,Mayor: Scholarships
+Mayor,Personal Services,0.0,0,Mayor: Scholarships
+Mayor,Purchase of Services,0.0,0,Mayor: Scholarships
+Community Empowerment,Advances & Misc.,0.0,0,Community Empowerment and Opportunity
+Community Empowerment,Contrib./Indemnities,0.0,0,Community Empowerment and Opportunity
+Community Empowerment,Debt Service,0.0,0,Community Empowerment and Opportunity
+Community Empowerment,Materials/Equip.,0.0,0,Community Empowerment and Opportunity
+Community Empowerment,Payments to Other Funds,0.0,0,Community Empowerment and Opportunity
+Community Empowerment,Personal Services,45000.0,90000,Community Empowerment and Opportunity
+Community Empowerment,Purchase of Services,0.0,0,Community Empowerment and Opportunity
+Managing Director,Advances & Misc.,0.0,0,Managing Director
+Managing Director,Contrib./Indemnities,1350000.0,0,Managing Director
+Managing Director,Debt Service,0.0,0,Managing Director
+Managing Director,Materials/Equip.,1556787.0,1136979,Managing Director
+Managing Director,Payments to Other Funds,0.0,0,Managing Director
+Managing Director,Personal Services,36119907.0,23170579,Managing Director
+Managing Director,Purchase of Services,31588550.0,30973162,Managing Director
+Managing Director,Advances & Misc.,0.0,0,MDO: Legal Services
+Managing Director,Contrib./Indemnities,0.0,0,MDO: Legal Services
+Managing Director,Debt Service,0.0,0,MDO: Legal Services
+Managing Director,Materials/Equip.,0.0,0,MDO: Legal Services
+Managing Director,Payments to Other Funds,0.0,0,MDO: Legal Services
+Managing Director,Personal Services,0.0,0,MDO: Legal Services
+Managing Director,Purchase of Services,50104181.0,50938541,MDO: Legal Services
+Police,Advances & Misc.,0.0,0,Police
+Police,Contrib./Indemnities,0.0,0,Police
+Police,Debt Service,0.0,0,Police
+Police,Materials/Equip.,12794012.0,14452710,Police
+Police,Payments to Other Funds,0.0,0,Police
+Police,Personal Services,704077967.0,718359324,Police
+Police,Purchase of Services,10135755.0,8353063,Police
+Streets,Advances & Misc.,0.0,0,Streets
+Streets,Contrib./Indemnities,53171.0,53171,Streets
+Streets,Debt Service,0.0,0,Streets
+Streets,Materials/Equip.,6172885.0,7704196,Streets
+Streets,Payments to Other Funds,0.0,0,Streets
+Streets,Personal Services,87283619.0,90464913,Streets
+Streets,Purchase of Services,59512680.0,58810652,Streets
+Fire,Advances & Misc.,0.0,0,Fire
+Fire,Contrib./Indemnities,0.0,0,Fire
+Fire,Debt Service,0.0,0,Fire
+Fire,Materials/Equip.,9192914.0,8831714,Fire
+Fire,Payments to Other Funds,9882000.0,9235000,Fire
+Fire,Personal Services,289256642.0,273966292,Fire
+Fire,Purchase of Services,6724702.0,6516272,Fire
+Public Health,Advances & Misc.,0.0,0,Public Health
+Public Health,Contrib./Indemnities,0.0,0,Public Health
+Public Health,Debt Service,0.0,0,Public Health
+Public Health,Materials/Equip.,6768973.0,7519148,Public Health
+Public Health,Payments to Other Funds,4423404.0,4500000,Public Health
+Public Health,Personal Services,57654465.0,58328165,Public Health
+Public Health,Purchase of Services,90506143.0,90224827,Public Health
+Behavioral Health,Advances & Misc.,0.0,0,Behavioral Health
+Behavioral Health,Contrib./Indemnities,0.0,0,Behavioral Health
+Behavioral Health,Debt Service,0.0,0,Behavioral Health
+Behavioral Health,Materials/Equip.,0.0,0,Behavioral Health
+Behavioral Health,Payments to Other Funds,0.0,0,Behavioral Health
+Behavioral Health,Personal Services,1546510.0,1534468,Behavioral Health
+Behavioral Health,Purchase of Services,13930892.0,14360976,Behavioral Health
+Parks & Rec,Advances & Misc.,0.0,0,Parks & Rec
+Parks & Rec,Contrib./Indemnities,1500000.0,2711000,Parks & Rec
+Parks & Rec,Debt Service,0.0,0,Parks & Rec
+Parks & Rec,Materials/Equip.,2022225.0,2740630,Parks & Rec
+Parks & Rec,Payments to Other Funds,0.0,0,Parks & Rec
+Parks & Rec,Personal Services,46921787.0,52490935,Parks & Rec
+Parks & Rec,Purchase of Services,4482142.0,7115490,Parks & Rec
+Atwater Kent,Advances & Misc.,0.0,0,Atwater Kent
+Atwater Kent,Contrib./Indemnities,0.0,0,Atwater Kent
+Atwater Kent,Debt Service,0.0,0,Atwater Kent
+Atwater Kent,Materials/Equip.,0.0,0,Atwater Kent
+Atwater Kent,Payments to Other Funds,0.0,0,Atwater Kent
+Atwater Kent,Personal Services,0.0,0,Atwater Kent
+Atwater Kent,Purchase of Services,0.0,0,Atwater Kent
+Public Property,Advances & Misc.,0.0,0,Public Property
+Public Property,Contrib./Indemnities,0.0,0,Public Property
+Public Property,Debt Service,0.0,0,Public Property
+Public Property,Materials/Equip.,1338535.0,1338535,Public Property
+Public Property,Payments to Other Funds,28235000.0,26643000,Public Property
+Public Property,Personal Services,10101149.0,9395654,Public Property
+Public Property,Purchase of Services,30549657.0,31314408,Public Property
+Public Property,Advances & Misc.,0.0,0,Space Rentals
+Public Property,Contrib./Indemnities,0.0,0,Space Rentals
+Public Property,Debt Service,0.0,0,Space Rentals
+Public Property,Materials/Equip.,0.0,0,Space Rentals
+Public Property,Payments to Other Funds,0.0,0,Space Rentals
+Public Property,Personal Services,0.0,0,Space Rentals
+Public Property,Purchase of Services,25567715.0,26278677,Space Rentals
+Public Property,Advances & Misc.,0.0,0,SEPTA Subsidy
+Public Property,Contrib./Indemnities,0.0,0,SEPTA Subsidy
+Public Property,Debt Service,0.0,0,SEPTA Subsidy
+Public Property,Materials/Equip.,0.0,0,SEPTA Subsidy
+Public Property,Payments to Other Funds,0.0,0,SEPTA Subsidy
+Public Property,Personal Services,0.0,0,SEPTA Subsidy
+Public Property,Purchase of Services,84608000.0,87556000,SEPTA Subsidy
+Public Property,Advances & Misc.,0.0,0,Utilities
+Public Property,Contrib./Indemnities,0.0,0,Utilities
+Public Property,Debt Service,0.0,0,Utilities
+Public Property,Materials/Equip.,0.0,0,Utilities
+Public Property,Payments to Other Funds,0.0,0,Utilities
+Public Property,Personal Services,0.0,0,Utilities
+Public Property,Purchase of Services,25447623.0,27393339,Utilities
+Human Services,Advances & Misc.,0.0,0,Human Services
+Human Services,Contrib./Indemnities,0.0,0,Human Services
+Human Services,Debt Service,0.0,0,Human Services
+Human Services,Materials/Equip.,2111970.0,2069970,Human Services
+Human Services,Payments to Other Funds,0.0,0,Human Services
+Human Services,Personal Services,31673433.42,27646449,Human Services
+Human Services,Purchase of Services,129305230.0,89248594,Human Services
+Prisons,Advances & Misc.,0.0,0,Prisons
+Prisons,Contrib./Indemnities,1201757.0,1201757,Prisons
+Prisons,Debt Service,0.0,0,Prisons
+Prisons,Materials/Equip.,4016769.0,4373744,Prisons
+Prisons,Payments to Other Funds,0.0,0,Prisons
+Prisons,Personal Services,126599446.0,139765668,Prisons
+Prisons,Purchase of Services,88351948.0,92842354,Prisons
+Homeless Services,Advances & Misc.,0.0,0,Homeless Services
+Homeless Services,Contrib./Indemnities,32421.0,32421,Homeless Services
+Homeless Services,Debt Service,0.0,0,Homeless Services
+Homeless Services,Materials/Equip.,344127.0,344127,Homeless Services
+Homeless Services,Payments to Other Funds,0.0,0,Homeless Services
+Homeless Services,Personal Services,8068689.0,9545748,Homeless Services
+Homeless Services,Purchase of Services,35593350.0,50023423,Homeless Services
+Fleet,Advances & Misc.,0.0,0,Fleet
+Fleet,Contrib./Indemnities,0.0,0,Fleet
+Fleet,Debt Service,0.0,0,Fleet
+Fleet,Materials/Equip.,22376873.0,25391767,Fleet
+Fleet,Payments to Other Funds,0.0,0,Fleet
+Fleet,Personal Services,19073455.0,19416871,Fleet
+Fleet,Purchase of Services,5353396.0,5305396,Fleet
+Fleet,Advances & Misc.,0.0,0,Vehicle Purchases/Leases
+Fleet,Contrib./Indemnities,0.0,0,Vehicle Purchases/Leases
+Fleet,Debt Service,0.0,0,Vehicle Purchases/Leases
+Fleet,Materials/Equip.,9797739.0,17286549,Vehicle Purchases/Leases
+Fleet,Payments to Other Funds,0.0,0,Vehicle Purchases/Leases
+Fleet,Personal Services,0.0,0,Vehicle Purchases/Leases
+Fleet,Purchase of Services,0.0,0,Vehicle Purchases/Leases
+Licenses & Inspections,Advances & Misc.,0.0,0,Licenses & Inspections
+Licenses & Inspections,Contrib./Indemnities,0.0,0,Licenses & Inspections
+Licenses & Inspections,Debt Service,0.0,0,Licenses & Inspections
+Licenses & Inspections,Materials/Equip.,834475.0,911397,Licenses & Inspections
+Licenses & Inspections,Payments to Other Funds,0.0,0,Licenses & Inspections
+Licenses & Inspections,Personal Services,23970217.0,25967209,Licenses & Inspections
+Licenses & Inspections,Purchase of Services,13447002.0,14403945,Licenses & Inspections
+Board of Review,Advances & Misc.,0.0,0,L&I: Board of Review
+Board of Review,Contrib./Indemnities,0.0,0,L&I: Board of Review
+Board of Review,Debt Service,0.0,0,L&I: Board of Review
+Board of Review,Materials/Equip.,0.0,0,L&I: Board of Review
+Board of Review,Payments to Other Funds,0.0,0,L&I: Board of Review
+Board of Review,Personal Services,165635.0,163434,L&I: Board of Review
+Board of Review,Purchase of Services,10436.0,10436,L&I: Board of Review
+Board of Bldg. Stds.,Advances & Misc.,0.0,0,L&I: Board of Building Standards
+Board of Bldg. Stds.,Contrib./Indemnities,0.0,0,L&I: Board of Building Standards
+Board of Bldg. Stds.,Debt Service,0.0,0,L&I: Board of Building Standards
+Board of Bldg. Stds.,Materials/Equip.,0.0,0,L&I: Board of Building Standards
+Board of Bldg. Stds.,Payments to Other Funds,0.0,0,L&I: Board of Building Standards
+Board of Bldg. Stds.,Personal Services,82018.0,80366,L&I: Board of Building Standards
+Board of Bldg. Stds.,Purchase of Services,0.0,0,L&I: Board of Building Standards
+Records,Advances & Misc.,0.0,0,Records
+Records,Contrib./Indemnities,0.0,1456,Records
+Records,Debt Service,0.0,0,Records
+Records,Materials/Equip.,143758.0,143758,Records
+Records,Payments to Other Funds,0.0,0,Records
+Records,Personal Services,3117312.0,3226285,Records
+Records,Purchase of Services,743265.0,1538779,Records
+Art Museum,Advances & Misc.,0.0,0,Art Museum
+Art Museum,Contrib./Indemnities,2040000.0,2550000,Art Museum
+Art Museum,Debt Service,0.0,0,Art Museum
+Art Museum,Materials/Equip.,0.0,0,Art Museum
+Art Museum,Payments to Other Funds,0.0,0,Art Museum
+Art Museum,Personal Services,0.0,0,Art Museum
+Art Museum,Purchase of Services,0.0,0,Art Museum
+Finance,Advances & Misc.,0.0,0,Finance
+Finance,Contrib./Indemnities,1250000.0,4725000,Finance
+Finance,Debt Service,0.0,0,Finance
+Finance,Materials/Equip.,35616.0,103109,Finance
+Finance,Payments to Other Funds,24500000.0,28285000,Finance
+Finance,Personal Services,10312396.0,9084313,Finance
+Finance,Purchase of Services,2626660.0,3029912,Finance
+Finance,Advances & Misc.,0.0,0,Budget Stabilization Reserve
+Finance,Contrib./Indemnities,0.0,0,Budget Stabilization Reserve
+Finance,Debt Service,0.0,0,Budget Stabilization Reserve
+Finance,Materials/Equip.,0.0,0,Budget Stabilization Reserve
+Finance,Payments to Other Funds,0.0,34276000,Budget Stabilization Reserve
+Finance,Personal Services,0.0,0,Budget Stabilization Reserve
+Finance,Purchase of Services,0.0,0,Budget Stabilization Reserve
+Finance,Advances & Misc.,0.0,0,Community College Subsidy
+Finance,Contrib./Indemnities,44110159.0,33759207,Community College Subsidy
+Finance,Debt Service,0.0,0,Community College Subsidy
+Finance,Materials/Equip.,0.0,0,Community College Subsidy
+Finance,Payments to Other Funds,0.0,0,Community College Subsidy
+Finance,Personal Services,0.0,0,Community College Subsidy
+Finance,Purchase of Services,0.0,0,Community College Subsidy
+Finance,Advances & Misc.,0.0,0,Employee Benefits
+Finance,Contrib./Indemnities,0.0,0,Employee Benefits
+Finance,Debt Service,0.0,0,Employee Benefits
+Finance,Materials/Equip.,0.0,0,Employee Benefits
+Finance,Payments to Other Funds,0.0,0,Employee Benefits
+Finance,Personal Services,1287159003.0,1411963002,Employee Benefits
+Finance,Purchase of Services,0.0,0,Employee Benefits
+Finance,Advances & Misc.,0.0,0,Hero Awards
+Finance,Contrib./Indemnities,25000.0,25000,Hero Awards
+Finance,Debt Service,0.0,0,Hero Awards
+Finance,Materials/Equip.,0.0,0,Hero Awards
+Finance,Payments to Other Funds,0.0,0,Hero Awards
+Finance,Personal Services,0.0,0,Hero Awards
+Finance,Purchase of Services,0.0,0,Hero Awards
+Finance,Advances & Misc.,0.0,0,Indemnities
+Finance,Contrib./Indemnities,49246000.0,49246000,Indemnities
+Finance,Debt Service,0.0,0,Indemnities
+Finance,Materials/Equip.,0.0,0,Indemnities
+Finance,Payments to Other Funds,0.0,0,Indemnities
+Finance,Personal Services,0.0,0,Indemnities
+Finance,Purchase of Services,0.0,0,Indemnities
+Finance,Advances & Misc.,0.0,0,Refunds
+Finance,Contrib./Indemnities,250000.0,250000,Refunds
+Finance,Debt Service,0.0,0,Refunds
+Finance,Materials/Equip.,0.0,0,Refunds
+Finance,Payments to Other Funds,0.0,0,Refunds
+Finance,Personal Services,0.0,0,Refunds
+Finance,Purchase of Services,0.0,0,Refunds
+Finance,Advances & Misc.,0.0,0,Disability Reg #32 Payroll
+Finance,Contrib./Indemnities,0.0,0,Disability Reg #32 Payroll
+Finance,Debt Service,0.0,0,Disability Reg #32 Payroll
+Finance,Materials/Equip.,0.0,0,Disability Reg #32 Payroll
+Finance,Payments to Other Funds,0.0,0,Disability Reg #32 Payroll
+Finance,Personal Services,2650000.0,2650000,Disability Reg #32 Payroll
+Finance,Purchase of Services,0.0,0,Disability Reg #32 Payroll
+Finance,Advances & Misc.,25000000.0,55108000,Recession Reserve
+Finance,Contrib./Indemnities,0.0,0,Recession Reserve
+Finance,Debt Service,0.0,0,Recession Reserve
+Finance,Materials/Equip.,0.0,0,Recession Reserve
+Finance,Payments to Other Funds,0.0,0,Recession Reserve
+Finance,Personal Services,0.0,0,Recession Reserve
+Finance,Purchase of Services,0.0,0,Recession Reserve
+Finance,Advances & Misc.,0.0,0,School District Contribution
+Finance,Contrib./Indemnities,252578558.0,222456410,School District Contribution
+Finance,Debt Service,0.0,0,School District Contribution
+Finance,Materials/Equip.,0.0,0,School District Contribution
+Finance,Payments to Other Funds,0.0,0,School District Contribution
+Finance,Personal Services,0.0,0,School District Contribution
+Finance,Purchase of Services,0.0,0,School District Contribution
+Finance,Advances & Misc.,0.0,0,Witness Fees
+Finance,Contrib./Indemnities,0.0,0,Witness Fees
+Finance,Debt Service,0.0,0,Witness Fees
+Finance,Materials/Equip.,0.0,0,Witness Fees
+Finance,Payments to Other Funds,0.0,0,Witness Fees
+Finance,Personal Services,0.0,0,Witness Fees
+Finance,Purchase of Services,171518.0,171518,Witness Fees
+Revenue,Advances & Misc.,0.0,0,Revenue
+Revenue,Contrib./Indemnities,0.0,0,Revenue
+Revenue,Debt Service,0.0,0,Revenue
+Revenue,Materials/Equip.,774976.0,1188976,Revenue
+Revenue,Payments to Other Funds,0.0,0,Revenue
+Revenue,Personal Services,22648673.0,23934508,Revenue
+Revenue,Purchase of Services,5787749.0,7755749,Revenue
+Debt Service,Advances & Misc.,0.0,0,Debt Service
+Debt Service,Contrib./Indemnities,0.0,0,Debt Service
+Debt Service,Debt Service,185714117.0,187482819,Debt Service
+Debt Service,Materials/Equip.,0.0,0,Debt Service
+Debt Service,Payments to Other Funds,0.0,0,Debt Service
+Debt Service,Personal Services,0.0,0,Debt Service
+Debt Service,Purchase of Services,96918314.0,109222498,Debt Service
+Procurement,Advances & Misc.,0.0,0,Procurement
+Procurement,Contrib./Indemnities,0.0,0,Procurement
+Procurement,Debt Service,0.0,0,Procurement
+Procurement,Materials/Equip.,40194.0,49054,Procurement
+Procurement,Payments to Other Funds,0.0,0,Procurement
+Procurement,Personal Services,2436508.0,2709242,Procurement
+Procurement,Purchase of Services,2283634.0,2916267,Procurement
+City Treasurer,Advances & Misc.,0.0,0,City Treasurer
+City Treasurer,Contrib./Indemnities,0.0,0,City Treasurer
+City Treasurer,Debt Service,0.0,0,City Treasurer
+City Treasurer,Materials/Equip.,22224.0,22224,City Treasurer
+City Treasurer,Payments to Other Funds,0.0,0,City Treasurer
+City Treasurer,Personal Services,1368170.0,1262499,City Treasurer
+City Treasurer,Purchase of Services,193544.0,198444,City Treasurer
+City Rep,Advances & Misc.,0.0,0,City Representative
+City Rep,Contrib./Indemnities,0.0,0,City Representative
+City Rep,Debt Service,0.0,0,City Representative
+City Rep,Materials/Equip.,0.0,54000,City Representative
+City Rep,Payments to Other Funds,0.0,0,City Representative
+City Rep,Personal Services,0.0,795916,City Representative
+City Rep,Purchase of Services,0.0,399779,City Representative
+Commerce,Advances & Misc.,0.0,0,Commerce
+Commerce,Contrib./Indemnities,0.0,500000,Commerce
+Commerce,Debt Service,0.0,0,Commerce
+Commerce,Materials/Equip.,26654.0,26654,Commerce
+Commerce,Payments to Other Funds,0.0,0,Commerce
+Commerce,Personal Services,2394341.0,3469881,Commerce
+Commerce,Purchase of Services,1216153.0,5854826,Commerce
+Commerce,Advances & Misc.,0.0,0,Convention Center Subsidy
+Commerce,Contrib./Indemnities,0.0,0,Convention Center Subsidy
+Commerce,Debt Service,0.0,0,Convention Center Subsidy
+Commerce,Materials/Equip.,0.0,0,Convention Center Subsidy
+Commerce,Payments to Other Funds,0.0,0,Convention Center Subsidy
+Commerce,Personal Services,0.0,0,Convention Center Subsidy
+Commerce,Purchase of Services,15000000.0,15000000,Convention Center Subsidy
+Commerce,Advances & Misc.,0.0,0,Economic Stimulus
+Commerce,Contrib./Indemnities,0.0,0,Economic Stimulus
+Commerce,Debt Service,0.0,0,Economic Stimulus
+Commerce,Materials/Equip.,0.0,0,Economic Stimulus
+Commerce,Payments to Other Funds,0.0,0,Economic Stimulus
+Commerce,Personal Services,0.0,0,Economic Stimulus
+Commerce,Purchase of Services,3015000.0,7671624,Economic Stimulus
+Law,Advances & Misc.,0.0,0,Law
+Law,Contrib./Indemnities,0.0,0,Law
+Law,Debt Service,0.0,0,Law
+Law,Materials/Equip.,184676.0,248676,Law
+Law,Payments to Other Funds,0.0,0,Law
+Law,Personal Services,9520003.0,9427335,Law
+Law,Purchase of Services,5309427.0,6409034,Law
+Board of Ethics,Advances & Misc.,0.0,0,Board of Ethics
+Board of Ethics,Contrib./Indemnities,0.0,0,Board of Ethics
+Board of Ethics,Debt Service,0.0,0,Board of Ethics
+Board of Ethics,Materials/Equip.,7500.0,7500,Board of Ethics
+Board of Ethics,Payments to Other Funds,0.0,0,Board of Ethics
+Board of Ethics,Personal Services,915196.0,1041630,Board of Ethics
+Board of Ethics,Purchase of Services,52500.0,52500,Board of Ethics
+Inspector General,Advances & Misc.,0.0,0,Inspector General
+Inspector General,Contrib./Indemnities,0.0,0,Inspector General
+Inspector General,Debt Service,0.0,0,Inspector General
+Inspector General,Materials/Equip.,5225.0,5225,Inspector General
+Inspector General,Payments to Other Funds,0.0,0,Inspector General
+Inspector General,Personal Services,1472481.0,1577241,Inspector General
+Inspector General,Purchase of Services,97975.0,97975,Inspector General
+Sustainability,Advances & Misc.,0.0,0,Sustainability
+Sustainability,Contrib./Indemnities,0.0,0,Sustainability
+Sustainability,Debt Service,0.0,0,Sustainability
+Sustainability,Materials/Equip.,1000.0,17840,Sustainability
+Sustainability,Payments to Other Funds,175000.0,250000,Sustainability
+Sustainability,Personal Services,603814.0,551910,Sustainability
+Sustainability,Purchase of Services,423366.0,393508,Sustainability
+Mural Arts,Advances & Misc.,0.0,0,Mural Arts
+Mural Arts,Contrib./Indemnities,0.0,0,Mural Arts
+Mural Arts,Debt Service,0.0,0,Mural Arts
+Mural Arts,Materials/Equip.,0.0,0,Mural Arts
+Mural Arts,Payments to Other Funds,0.0,0,Mural Arts
+Mural Arts,Personal Services,578952.0,638987,Mural Arts
+Mural Arts,Purchase of Services,1545610.0,1860615,Mural Arts
+Free Library,Advances & Misc.,0.0,0,Free Library
+Free Library,Contrib./Indemnities,0.0,0,Free Library
+Free Library,Debt Service,0.0,0,Free Library
+Free Library,Materials/Equip.,1842128.0,2302659,Free Library
+Free Library,Payments to Other Funds,0.0,0,Free Library
+Free Library,Personal Services,35549343.0,40633647,Free Library
+Free Library,Purchase of Services,2259262.0,2824077,Free Library
+Human Relations ,Advances & Misc.,0.0,0,Human Relations Commission
+Human Relations ,Contrib./Indemnities,0.0,0,Human Relations Commission
+Human Relations ,Debt Service,0.0,0,Human Relations Commission
+Human Relations ,Materials/Equip.,28031.0,28031,Human Relations Commission
+Human Relations ,Payments to Other Funds,0.0,0,Human Relations Commission
+Human Relations ,Personal Services,2360285.0,2323714,Human Relations Commission
+Human Relations ,Purchase of Services,34657.0,34657,Human Relations Commission
+Civil Service Commission,Advances & Misc.,0.0,0,Civil Service Commission
+Civil Service Commission,Contrib./Indemnities,0.0,0,Civil Service Commission
+Civil Service Commission,Debt Service,0.0,0,Civil Service Commission
+Civil Service Commission,Materials/Equip.,1094.0,1094,Civil Service Commission
+Civil Service Commission,Payments to Other Funds,0.0,0,Civil Service Commission
+Civil Service Commission,Personal Services,177148.0,174341,Civil Service Commission
+Civil Service Commission,Purchase of Services,29500.0,29500,Civil Service Commission
+Civil Service Commission,Advances & Misc.,0.0,0,Labor Reserve
+Civil Service Commission,Contrib./Indemnities,0.0,0,Labor Reserve
+Civil Service Commission,Debt Service,0.0,0,Labor Reserve
+Civil Service Commission,Materials/Equip.,0.0,0,Labor Reserve
+Civil Service Commission,Payments to Other Funds,0.0,0,Labor Reserve
+Civil Service Commission,Personal Services,0.0,0,Labor Reserve
+Civil Service Commission,Purchase of Services,0.0,0,Labor Reserve
+Human Resources,Advances & Misc.,0.0,0,Human Resources
+Human Resources,Contrib./Indemnities,0.0,0,Human Resources
+Human Resources,Debt Service,0.0,0,Human Resources
+Human Resources,Materials/Equip.,69432.0,89432,Human Resources
+Human Resources,Payments to Other Funds,0.0,0,Human Resources
+Human Resources,Personal Services,5290733.0,5555785,Human Resources
+Human Resources,Purchase of Services,877570.0,1229070,Human Resources
+Arts & Culture,Advances & Misc.,0.0,0,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Contrib./Indemnities,0.0,3370688,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Debt Service,0.0,0,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Materials/Equip.,0.0,7000,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Payments to Other Funds,0.0,0,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Personal Services,0.0,508300,"Arts, Culture, and the Creative Economy"
+Arts & Culture,Purchase of Services,0.0,212014,"Arts, Culture, and the Creative Economy"
+Property Assessment,Advances & Misc.,0.0,0,Property Assessment
+Property Assessment,Contrib./Indemnities,0.0,0,Property Assessment
+Property Assessment,Debt Service,0.0,0,Property Assessment
+Property Assessment,Materials/Equip.,762600.0,787600,Property Assessment
+Property Assessment,Payments to Other Funds,0.0,0,Property Assessment
+Property Assessment,Personal Services,12918061.0,14127682,Property Assessment
+Property Assessment,Purchase of Services,2420632.0,2403126,Property Assessment
+City Controller,Advances & Misc.,0.0,0,City Controller
+City Controller,Contrib./Indemnities,0.0,0,City Controller
+City Controller,Debt Service,0.0,0,City Controller
+City Controller,Materials/Equip.,25000.0,25000,City Controller
+City Controller,Payments to Other Funds,0.0,0,City Controller
+City Controller,Personal Services,9045839.0,8862100,City Controller
+City Controller,Purchase of Services,497450.0,497450,City Controller
+Revision of Taxes,Advances & Misc.,0.0,0,Board of Revision of Taxes
+Revision of Taxes,Contrib./Indemnities,0.0,0,Board of Revision of Taxes
+Revision of Taxes,Debt Service,0.0,0,Board of Revision of Taxes
+Revision of Taxes,Materials/Equip.,17727.0,22727,Board of Revision of Taxes
+Revision of Taxes,Payments to Other Funds,0.0,0,Board of Revision of Taxes
+Revision of Taxes,Personal Services,987587.0,962864,Board of Revision of Taxes
+Revision of Taxes,Purchase of Services,37900.0,75200,Board of Revision of Taxes
+Chief Admin. Officer,Advances & Misc.,0.0,0,Chief Administrative Officer
+Chief Admin. Officer,Contrib./Indemnities,0.0,0,Chief Administrative Officer
+Chief Admin. Officer,Debt Service,0.0,0,Chief Administrative Officer
+Chief Admin. Officer,Materials/Equip.,26665.0,26665,Chief Administrative Officer
+Chief Admin. Officer,Payments to Other Funds,0.0,0,Chief Administrative Officer
+Chief Admin. Officer,Personal Services,4256565.0,4784551,Chief Administrative Officer
+Chief Admin. Officer,Purchase of Services,2050549.0,2627049,Chief Administrative Officer
+Children and Families,Advances & Misc.,0.0,0,Children and Families
+Children and Families,Contrib./Indemnities,0.0,0,Children and Families
+Children and Families,Debt Service,0.0,0,Children and Families
+Children and Families,Materials/Equip.,0.0,42000,Children and Families
+Children and Families,Payments to Other Funds,0.0,0,Children and Families
+Children and Families,Personal Services,418820.0,3292180,Children and Families
+Children and Families,Purchase of Services,0.0,42015834,Children and Families
+Register of Wills,Advances & Misc.,0.0,0,Register of Wills
+Register of Wills,Contrib./Indemnities,0.0,0,Register of Wills
+Register of Wills,Debt Service,0.0,0,Register of Wills
+Register of Wills,Materials/Equip.,140236.0,140236,Register of Wills
+Register of Wills,Payments to Other Funds,0.0,0,Register of Wills
+Register of Wills,Personal Services,3956193.0,4286409,Register of Wills
+Register of Wills,Purchase of Services,125000.0,125000,Register of Wills
+District Attorney,Advances & Misc.,0.0,0,District Attorney
+District Attorney,Contrib./Indemnities,0.0,0,District Attorney
+District Attorney,Debt Service,0.0,0,District Attorney
+District Attorney,Materials/Equip.,420017.0,525021,District Attorney
+District Attorney,Payments to Other Funds,0.0,0,District Attorney
+District Attorney,Personal Services,30262904.0,35016343,District Attorney
+District Attorney,Purchase of Services,2693738.0,3367172,District Attorney
+Sheriff,Advances & Misc.,0.0,0,Sheriff
+Sheriff,Contrib./Indemnities,0.0,0,Sheriff
+Sheriff,Debt Service,0.0,0,Sheriff
+Sheriff,Materials/Equip.,498157.0,708907,Sheriff
+Sheriff,Payments to Other Funds,0.0,0,Sheriff
+Sheriff,Personal Services,25192450.0,25443537,Sheriff
+Sheriff,Purchase of Services,1105267.0,894517,Sheriff
+Planning & Development,Advances & Misc.,0.0,0,Planning & Development
+Planning & Development,Contrib./Indemnities,0.0,1350000,Planning & Development
+Planning & Development,Debt Service,0.0,0,Planning & Development
+Planning & Development,Materials/Equip.,80761.0,101461,Planning & Development
+Planning & Development,Payments to Other Funds,0.0,0,Planning & Development
+Planning & Development,Personal Services,4834959.0,5167172,Planning & Development
+Planning & Development,Purchase of Services,3619463.0,5192113,Planning & Development
+City Commissioners,Advances & Misc.,0.0,0,City Commissioners
+City Commissioners,Contrib./Indemnities,0.0,0,City Commissioners
+City Commissioners,Debt Service,0.0,0,City Commissioners
+City Commissioners,Materials/Equip.,572617.0,572617,City Commissioners
+City Commissioners,Payments to Other Funds,0.0,0,City Commissioners
+City Commissioners,Personal Services,6714174.0,6633233,City Commissioners
+City Commissioners,Purchase of Services,5011061.0,5011061,City Commissioners
+First Judicial District,Advances & Misc.,0.0,0,First Judicial District
+First Judicial District,Contrib./Indemnities,0.0,0,First Judicial District
+First Judicial District,Debt Service,0.0,0,First Judicial District
+First Judicial District,Materials/Equip.,2231868.0,2231868,First Judicial District
+First Judicial District,Payments to Other Funds,0.0,0,First Judicial District
+First Judicial District,Personal Services,105324122.0,104792068,First Judicial District
+First Judicial District,Purchase of Services,8480039.0,8480039,First Judicial District

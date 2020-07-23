@@ -14,7 +14,9 @@ export function netChangeFormatFn(d) {
 }
 
 export function percentFn(d) {
-    let s = `${(100 * Math.abs(d)).toFixed(0)}%`;
+    if (!isFinite(d)) return "";
+    let s = `${(100 * Math.abs(d)).toFixed(1)}%`;
     if (d < 0) s = "\u2212" + s;
+    if (d > 0) s = "+" + s;
     return s;
 };

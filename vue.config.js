@@ -31,7 +31,7 @@ module.exports = {
           test: /\.html$/,
           exclude: /node_modules/,
           use: ["html-loader"]
-        }
+        },
       ]
     }
   },

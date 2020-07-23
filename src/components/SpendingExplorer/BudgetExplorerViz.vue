@@ -2,7 +2,10 @@
   <div>
     <div>
       <!-- Radio toolbar for different views -->
-      <div class="budget-explorer-toolbar d-flex align-items-center justify-content-center pt-3">
+      <div
+        class="budget-explorer-toolbar d-flex align-items-center justify-content-center pt-3"
+        v-if="showRadioButtonToolbar"
+      >
         <RadioButtonToolbar
           :options="viewingOptions"
           :defaultValue="viewingMode"
@@ -162,6 +165,9 @@ export default {
     });
   },
   computed: {
+    showRadioButtonToolbar() {
+      return this.viewingOptions.length > 1;
+    },
     showAnnotations() {
       return window.screen.width >= 1000;
     },

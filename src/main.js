@@ -2,8 +2,6 @@ import "core-js/stable";
 import Vue from "vue";
 import App from "@/App";
 
-// make FA does not watch SVG elements
-if (window.FontAwesome) window.FontAwesome.config.observeMutations = false;
 Vue.config.productionTip = false;
 
 // load and set the HTML template we are using
@@ -26,3 +24,9 @@ $(".back-link").after(helpMessage);
 new Vue({
   render: h => h(App)
 }).$mount("#app");
+
+// When document is loaded --> turn off FA tracking
+$(document).ready(function () {
+  window.FontAwesome.config.observeMutations = false;
+  window.FontAwesome.config.searchPseudoElements = false;
+});
